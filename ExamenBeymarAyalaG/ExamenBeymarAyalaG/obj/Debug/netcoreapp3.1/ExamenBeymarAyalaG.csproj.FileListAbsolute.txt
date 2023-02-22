@@ -1,0 +1,16 @@
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\bin\Debug\netcoreapp3.1\ExamenBeymarAyalaG.exe
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\bin\Debug\netcoreapp3.1\ExamenBeymarAyalaG.deps.json
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\bin\Debug\netcoreapp3.1\ExamenBeymarAyalaG.runtimeconfig.json
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\bin\Debug\netcoreapp3.1\ExamenBeymarAyalaG.runtimeconfig.dev.json
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\bin\Debug\netcoreapp3.1\ExamenBeymarAyalaG.dll
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\bin\Debug\netcoreapp3.1\ExamenBeymarAyalaG.pdb
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.csproj.AssemblyReference.cache
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.Form1.resources
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.csproj.GenerateResource.cache
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.AssemblyInfoInputs.cache
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.AssemblyInfo.cs
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.csproj.CoreCompileInputs.cache
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.dll
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.pdb
+C:\Users\beymar\source\repos\ExamenBeymarAyalaG\ExamenBeymarAyalaG\obj\Debug\netcoreapp3.1\ExamenBeymarAyalaG.genruntimeconfig.cache
